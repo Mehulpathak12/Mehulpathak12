@@ -6,7 +6,7 @@
 🧠 Computer Application student at Dezyne École College<br>
 🌄 Passionate backend developer learning Node.js and Spring Boot.<br>
 ***
-##🛠️ Skills
+## 🛠️ Skills
 🌐 Frontend: HTML, CSS, JavaScript
 🖥️ Backend: Node.js, Express, Spring Boot
 💾 Database: MongoDB, MySQL,
